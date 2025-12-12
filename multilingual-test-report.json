@@ -1,0 +1,27 @@
+{
+  "date": "2025-12-12T01:50:29.211Z",
+  "languages": [
+    "th",
+    "en",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "features": {
+    "languageDetection": true,
+    "localStorage": true,
+    "dynamicSwitching": true,
+    "fontSupport": true,
+    "responsiveDesign": true,
+    "accessibility": true
+  },
+  "files": {
+    "config/languages.js": true,
+    "utils/i18n.js": true,
+    "components/language-selector.js": true,
+    "components/language-selector.css": true,
+    "translations/th.json": true,
+    "translations/en.json": true,
+    "translations/zh-CN.json": true,
+    "translations/zh-TW.json": true
+  }
+}
